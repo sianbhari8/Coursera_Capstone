@@ -1,5 +1,5 @@
 
-This notebook will be mainly used for the capstone project
+#This notebook will be mainly used for the capstone project
 
 # In[1]:
 import pandas as pd
